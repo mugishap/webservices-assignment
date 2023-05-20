@@ -15,8 +15,8 @@ public class Student {
     private int studentId;
     private String studentName;
 
-    public Student(Department studentDepartment) {
-        this.studentDepartment = studentDepartment;
+    public Student() {
+        System.out.println("The student class has been created!!!");
     }
 
     public int getStudentId() {

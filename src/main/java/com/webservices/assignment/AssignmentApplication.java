@@ -22,7 +22,7 @@ public class AssignmentApplication {
 
         student1.setStudentName("Mugisha Precieux");
         student1.setStudentId(1);
-        student1.setStudentDepartment(department1);
+        student1.setStudentDepartment(department2);
 
         student2.setStudentName("Another Student");
         student2.setStudentId(2);
